@@ -1,0 +1,3 @@
+# DEMO: sahifalarda noindex. Sitemap faqat prod build'da e'lon qilinadi.
+User-agent: *
+Allow: /
